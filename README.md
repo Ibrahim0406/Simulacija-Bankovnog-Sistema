@@ -1,4 +1,4 @@
-📘 README opis (duži tekst koji možeš staviti u README.md)
+
 💻 Simulacija bankovnog sistema — Cisco Packet Tracer
 
 Ovaj projekat predstavlja simulaciju mrežnog sistema banke kreiranu u alatu Cisco Packet Tracer.
